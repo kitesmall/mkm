@@ -1,0 +1,37 @@
+
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote,
+dl, dt, dd, ul, ol, li, 
+pre,
+fieldset, lengend, button, input, textarea,
+th, td { 
+    margin: 0;
+    padding: 0;
+}
+
+
+body,
+button, input, select, textarea { 
+  
+    font: 12px/1 Microsoft YaHei,Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif; 
+}
+
+h1 { font-size: 18px; }
+h2 { font-size: 16px; }
+h3 { font-size: 14px; }
+h4, h5, h6 { font-size: 100%; }
+
+ em{ font-style: normal; } 
+small { font-size: 12px; } 
+ul{ list-style: none; }
+
+
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+fieldset, img { border: none; } 
+button, input, select, textarea {
+    font-size: 100%;
+}
+
+
+html { overflow-y: scroll; }
